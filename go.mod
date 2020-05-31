@@ -1,3 +1,3 @@
-module github.com/luishpcosta/loadbalencer
+module github.com/luishpcosta/loadbalancer
 
 go 1.14

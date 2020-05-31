@@ -4,7 +4,7 @@ import (
 	"flag"
 	"log"
 
-	"github.com/luishpcosta/loadbalencer/application"
+	"github.com/luishpcosta/loadbalancer/application"
 )
 
 func main() {

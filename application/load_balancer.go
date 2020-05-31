@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/luishpcosta/loadbalencer/domain"
+	"github.com/luishpcosta/loadbalancer/domain"
 )
 
 const (
